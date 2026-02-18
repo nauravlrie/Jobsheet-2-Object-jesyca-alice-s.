@@ -21,6 +21,5 @@ public class MahasiswaMain11 {
         mhs.tampilkanInformasi();
         System.out.println("Nilai Kinerja: " + mhs.nilaiKinerja());
 
-
     }
 }
